@@ -34,40 +34,40 @@ Answer = 7,2
 
 Activity 9
 
-Answer = 
+Answer = 6
 
 Activity 10
 
-Answer = 
+Answer = 6
 
 Activity 11
 
-Answer = 
+Answer = 8
 
 Activity 12
 
-Answer = 
+Answer = 8
 
 Activity 13
 
-Answer = 
+Answer = 3,5
 
 Activity 14
 
-Answer = 
+Answer = 2,1
 
 Activity 15
 
-Answer = 
+Answer = 25
 
 Activity 16
 
-Answer = 
+Answer = 25
 
 Activity 17
 
-Answer = 
+Answer = 7
 
 Activity 18
 
-Answer = 
+Answer = 0
